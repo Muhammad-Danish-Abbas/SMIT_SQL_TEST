@@ -1,0 +1,1 @@
+# SMIT_SQL_TEST
